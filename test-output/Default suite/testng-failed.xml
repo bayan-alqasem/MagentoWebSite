@@ -6,7 +6,7 @@
       <class name="MyTestCase">
         <methods>
           <include name="setUp"/>
-          <include name="createAccount"/>
+          <include name="addRandoomIteam"/>
         </methods>
       </class> <!-- MyTestCase -->
     </classes>
